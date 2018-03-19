@@ -1,0 +1,21 @@
+{
+    "name": "canvas",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+
+    "devDependencies": {
+        "webpack": "^4.1.1"
+    },
+
+    "scripts": {
+        "dev": "",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "webpack"
+    ],
+    "author": "me",
+    "license": "ISC"
+
+}
